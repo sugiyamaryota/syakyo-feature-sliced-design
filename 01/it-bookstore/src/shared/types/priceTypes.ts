@@ -1,1 +1,1 @@
-export type TPrice = `$${number | string}.${number | string} `
+export type TPrice = `$${number | string}.${number | string}`
