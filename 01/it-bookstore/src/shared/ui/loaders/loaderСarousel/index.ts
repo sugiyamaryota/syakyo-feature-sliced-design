@@ -1,0 +1,2 @@
+
+export {LoaderCarousel} from './loaderСarousel'
